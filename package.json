@@ -1,0 +1,12 @@
+{
+  "name": "consentgraph",
+  "version": "0.1.0",
+  "description": "Identity resolution where consent gates the join itself, measured on precision because a false merge is the expensive error.",
+  "type": "module",
+  "private": true,
+  "engines": { "node": ">=22.6" },
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.ts"
+  }
+}
