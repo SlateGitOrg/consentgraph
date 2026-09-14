@@ -2,6 +2,22 @@
 
 > Identity resolution where consent gates the join itself, measured on precision because a false merge is the expensive error.
 
+## Live deployment
+
+[![CI and deployment](https://github.com/SlateGitOrg/consentgraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SlateGitOrg/consentgraph/actions/workflows/ci.yml)
+
+[Open the interactive Consent Graph demo](https://slategitorg.github.io/consentgraph/)
+
+The deployed interface uses a deterministic offline scenario to make the repository's tested decision rule visible without external services or private data.
+
+### Desktop
+
+![Consent Graph desktop deployment](docs/assets/deployed-desktop.png)
+
+### Mobile
+
+<img src="docs/assets/deployed-mobile.png" alt="Consent Graph mobile deployment" width="390">
+
 `FLAGSHIP` · **Marketing Analyst** · Advanced · ~4-5 weeks · Retail - omnichannel loyalty
 
 **Primary language:** TypeScript
