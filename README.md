@@ -6,9 +6,9 @@
 
 [![CI and deployment](https://github.com/SlateGitOrg/consentgraph/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/SlateGitOrg/consentgraph/actions/workflows/ci.yml)
 
-[Open the interactive Consent Graph demo](https://slategitorg.github.io/consentgraph/)
+[Open the working Consent Graph application](https://slategitorg.github.io/consentgraph/)
 
-The deployed interface uses a deterministic offline scenario to make the repository's tested decision rule visible without external services or private data.
+This deployed application runs the project's decision workflow in the browser. Change the inputs, run the analysis, and inspect the computed metrics and decision trace.
 
 ### Desktop
 
